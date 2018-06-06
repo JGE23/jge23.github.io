@@ -19,6 +19,9 @@ body{
         text-align: center;
         font-weight: 100;
     }
+    p#name{
+        margin-bottom:20px;
+    }
 
     .sub-intro{
         font-family:'Roboto Mono', monospace;
