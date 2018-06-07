@@ -19,7 +19,7 @@ body{
         font-weight: 100;
     }
     p#name{
-        margin-bottom:35px;
+        margin-bottom:65px;
         font-size: 36pt;
     }
 
@@ -37,7 +37,7 @@ body{
         display:inline-block;
         line-height: 2.5;
         font-family: 'Poppins', sans-serif;
-        font-size: 35pt;
+        font-size: 22pt;
         color: #fff;
         font-weight: 300;
         display:block;
@@ -89,7 +89,7 @@ body{
         line-height: 2;
         width: 100%;
         text-align: center;
-        font-size: 17px !important;
+        font-size: 30px !important;
     }
     a.title{
         width:100%;
@@ -117,43 +117,6 @@ body{
     
 }
 
-@media (max-width:600px) {
-    html{ 
-        background-color:#000; 
-      }
-  
-      div.background-wrap{ 
-        display: none; 
-      }
-      .navbar1{
-          margin-top:50px;
-          line-height: 2;
-          width: 100%;
-          text-align: center;
-          font-size: 17px !important;
-      }
-      a.title{
-          width:100%;
-          margin: 0;
-      }
-      p.context {
-          display:inline-block;
-          line-height: 1.5;
-          font-family: 'Poppins', sans-serif;
-          font-size: 11pt;
-          color: #fff;
-          font-weight: 200;
-          display:block;
-          width: 100%;
-      }
-      .link{
-          width:100%;
-      }
-      .pages{
-          margin: 0px;
-      }
-      
-  }
 @media (min-width:768px){
     .giphy-embed{
         width: 30%;
@@ -165,7 +128,7 @@ body{
         font-family: 'Poppins', sans-serif;
         font-size:23pt;
         color: #fff;
-        font-weight: 300;
+        font-weight: 200;
         display:block;
         width: 100%;
         margin-top: 20px;
