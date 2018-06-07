@@ -11,23 +11,22 @@ body{
         text-align: center;
     }
     #intro{
-        font-family:'Roboto Mono', monospace;
-        font-size:30px;
+        font-family:'Poppins', sans-serif;
         font-style: normal;
-        font-size: 25pt;
+        font-size: 48pt;
         color: #FFF;
         text-align: center;
         font-weight: 100;
     }
     p#name{
-        margin-bottom:20px;
+        margin-bottom:35px;
+        font-size: 36pt;
     }
 
     .sub-intro{
-        font-family:'Roboto Mono', monospace;
+        font-family: 'Poppins', sans-serif;
         font-size: 20pt;
         color: #FFF;
-        margin-top: 25px;
         margin-bottom: 50px;
         opacity: 1; 
         font-weight: 300;
@@ -37,30 +36,31 @@ body{
     p.title {
         display:inline-block;
         line-height: 2.5;
-        font-family:'Roboto Mono', monospace;
-        font-size: 15pt;
+        font-family: 'Poppins', sans-serif;
+        font-size: 35pt;
         color: #fff;
-        font-weight: 400;
+        font-weight: 300;
         display:block;
         width: 100%;
     }
     p.context {
         display:inline-block;
         line-height: 1.5;
-        font-family:'Roboto Mono', monospace;
-        font-size: 11pt;
+        font-family: 'Poppins', sans-serif;
+        font-size: 23pt;
         color: #fff;
         font-weight: 200;
         display:block;
         width: 100%;
+        letter-spacing: 3pt;
     }
 
     .navbar1{
         display:block;
-        font-family:'Roboto Mono', monospace;
-        font-size: 17px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 35px;
         letter-spacing: 0px;
-        font-weight: 700;
+        font-weight: 300;
         margin-top: 25px;
         margin-bottom: 30px;
     }
@@ -98,8 +98,8 @@ body{
     p.context {
         display:inline-block;
         line-height: 1.5;
-        font-family:'Roboto Mono', monospace;
-        font-size: 11pt;
+        font-family: 'Poppins', sans-serif;
+        font-size: 15pt;
         color: #fff;
         font-weight: 200;
         display:block;
@@ -124,7 +124,7 @@ body{
   
       div.background-wrap{ 
         display: none; 
-      }​
+      }
       .navbar1{
           margin-top:50px;
           line-height: 2;
@@ -139,7 +139,7 @@ body{
       p.context {
           display:inline-block;
           line-height: 1.5;
-          font-family:'Roboto Mono', monospace;
+          font-family: 'Poppins', sans-serif;
           font-size: 11pt;
           color: #fff;
           font-weight: 200;
@@ -162,10 +162,10 @@ body{
     #gif-text{
         display:inline-block;
         line-height: 1.5;
-        font-family:'Roboto Mono', monospace;
-        font-size:8pt;
+        font-family: 'Poppins', sans-serif;
+        font-size:23pt;
         color: #fff;
-        font-weight: 200;
+        font-weight: 300;
         display:block;
         width: 100%;
         margin-top: 20px;
