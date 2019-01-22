@@ -66,11 +66,7 @@ body{
     }
     .pages{
         margin:0px;
-    }
-    #gif-text{
-        display:none;
-    }
-    
+    }    
 
 /************************************************
 ************ M E D I A _ Q U E R I E S ***********
@@ -83,7 +79,7 @@ body{
 
     div.background-wrap{ 
       display: none; 
-    }​
+    }
     .navbar1{
         margin-top:50px;
         line-height: 2;
@@ -111,28 +107,6 @@ body{
     .pages{
         margin: 0px;
     }
-    #gif-text{
-        display:none;
-    }
-    
 }
 
-@media (min-width:768px){
-    .giphy-embed{
-        width: 30%;
-        height: 23%;
-    }
-    #gif-text{
-        display:inline-block;
-        line-height: 1.5;
-        font-family: 'Poppins', sans-serif;
-        font-size:23pt;
-        color: #fff;
-        font-weight: 200;
-        display:block;
-        width: 100%;
-        margin-top: 20px;
-        text-align: center;
-    }
 
-}
